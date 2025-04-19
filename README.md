@@ -15,9 +15,16 @@ Welcome to my personal portfolio website! This site showcases my work, projects,
 ## Installation & Setup
 
 1. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/yourusername/portfolio.git
+   ```
+2. Install dependencies:
+   ```
    cd portfolio 
    npm install
-   npm run dev
    ```
+3. Run the app
+    ```
+    npm run dev
+    ```
+   
